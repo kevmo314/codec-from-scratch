@@ -24,3 +24,7 @@ if there's interest we could add more features that appear in modern video
 codecs.
 
 Sample video from [Ketut Subiyanto](https://www.pexels.com/video/a-little-girl-preparing-a-scramble-egg-meal-4823190/).
+
+## Other languages
+
+* Rust: https://github.com/Carel155/codec-from-scratch-rust
