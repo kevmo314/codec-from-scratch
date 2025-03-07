@@ -1,7 +1,5 @@
 # Video Encoding from Scratch
 
-**Big fan of video? Have questions or want to learn more? Join us on [Discord](https://discord.gg/dVshPbrggM)!**
-
 Ever wondered how a video encoder works? This is a simple video encoder
 that walks through building a video encoder from scratch to achieve a 90% compression ratio!
 
